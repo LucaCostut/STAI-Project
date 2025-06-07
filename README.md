@@ -64,7 +64,7 @@ STAI project/
 │   ├── search.html         # Search form
 │   └── results.html        # Search results
 
-
+````
 ---
 
 ## 🧠 What This Demonstrates
