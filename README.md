@@ -50,6 +50,7 @@ It allows users to search through a large set of documents from the [20 Newsgrou
 
 ## 📂 Project Structure
 
+````markdown
 STAI project/
 ├── app.py                  # Flask app
 ├── requirements.txt        # Python dependencies
@@ -62,6 +63,7 @@ STAI project/
 ├── templates/
 │   ├── search.html         # Search form
 │   └── results.html        # Search results
+
 
 ---
 
